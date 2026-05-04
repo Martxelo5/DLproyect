@@ -27,7 +27,7 @@ Both parts are implemented in a single Jupyter Notebook (`main.ipynb`) using PyT
 Due to GitHub’s file size limits, the trained `.pth` files are **not** included in this repository.  
 You can download them from Google Drive:
 
-📎 **[Download model weights (Google Drive)]([https://drive.google.com/your-shared-link-here](https://drive.google.com/drive/folders/10wIzrx6zCwm6DvhvDYEaTfSbs1wkddWL?usp=sharing))**
+📎 **[Download model weights (Google Drive)](https://drive.google.com/drive/folders/10wIzrx6zCwm6DvhvDYEaTfSbs1wkddWL?usp=sharing)**
 
 Place the downloaded files inside the `saved/` folder before running the notebook:
 ```
