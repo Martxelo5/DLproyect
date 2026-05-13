@@ -5,9 +5,11 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "datasets>=4.8.5",
     "ipykernel>=7.2.0",
     "kaggle>=2.1.0",
     "kagglehub>=1.0.1",
+    "librosa>=0.11.0",
     "lime>=0.2.0.1",
     "matplotlib>=3.10.8",
     "numpy>=2.4.2",
@@ -25,4 +27,5 @@ dependencies = [
     "torchinfo>=1.8.0",
     "torchmetrics>=1.9.0",
     "torchvision>=0.25.0",
+    "transformers>=5.8.0",
 ]
