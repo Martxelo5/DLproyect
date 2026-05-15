@@ -41,11 +41,10 @@ saved/
 ```
 ---
 # News(AG News) Classification with DistilBERT and ELECTRA-small
-
 ---
 ## 🔗 Trained Models
 
-Due to GitHub’s file size limits, the trained `.pth` files, the optuna `.db` studys and the tokenazirs are **not** included in this repository.  
+Due to GitHub’s file size limits, the trained `.pth` files, the optuna `.db` studys and the tokenaizers are **not** included in this repository.  
 You can download them from Google Drive:
 
 📎 **[Download model weights (Google Drive)](https://drive.google.com/drive/folders/1fncomdq0_h0UpLOWmISmD4QizdV8R7jM?usp=drive_link)**
