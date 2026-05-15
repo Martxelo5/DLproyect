@@ -39,5 +39,24 @@ saved/
 └── effnetv2_eurosat.pth
 
 ```
+---
+# News(AG News) Classification with DistilBERT and ELECTRA-small
 
+---
+## 🔗 Trained Models
+
+Due to GitHub’s file size limits, the trained `.pth` files, the optuna `.db` studys and the tokenazirs are **not** included in this repository.  
+You can download them from Google Drive:
+
+📎 **[Download model weights (Google Drive)](https://drive.google.com/drive/folders/1fncomdq0_h0UpLOWmISmD4QizdV8R7jM?usp=drive_link)**
+
+Place the downloaded files inside the `saved/` folder(you might need to create it) before running the notebook:
+```
+saved/
+├── electra_best_model.pth 
+├── distilbert_best_model.pth
+├── electra_optuna_study.db
+├── distilbert_optuna_study.db
+
+```
 ---
